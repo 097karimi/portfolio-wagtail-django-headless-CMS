@@ -1,5 +1,13 @@
 # A wagtail API for portfolio websites using Django framework
 
+This is a headless CMS or a backend api for portfolio websites using Django.
+If you are interested, feel free to contribute!
+
+you can also use aonother repo for your frontend which is using Vue js.
+
+
+  - https://github.com/097karimi/portfolio-vuejs
+
 
 # Install
 
