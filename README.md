@@ -3,6 +3,8 @@
 This is a headless CMS or a backend api for portfolio websites using Django.
 If you are interested, feel free to contribute!
 
+https://user-images.githubusercontent.com/87131825/135034076-aeaaae31-74fe-406d-b954-2b28f89fec00.mp4
+
 you can also use aonother repo for your frontend which is using Vue js.
 
 
